@@ -34,10 +34,6 @@ jobs:
         steps:
             - name: "Checkout sources"
               uses: actions/checkout@v3
-
-            - name: "Install dependencies"
-              run: |
-                  sudo apt install libncurses5
                   
             - name: "Build Raspeberry artifact"
               run: |
