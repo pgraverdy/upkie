@@ -1,0 +1,21 @@
+var NAVTREEINDEX2 =
+{
+"upkie_2envs_2____init_____8py.html#a19db9b4da57f145e7695053511d16fdb":[10,0,2,1,0,2],
+"upkie_2envs_2____init_____8py.html#a8b30d2571b189dc54a7a40dbb695449b":[10,0,2,1,0,1],
+"upkie_2envs_2____init_____8py.html#af8b7940eb01b9ae4dde84839bbb1d009":[10,0,2,1,0,0],
+"upkie_2envs_2____init_____8py_source.html":[10,0,2,1,0],
+"upkie_2observers_2base__pitch_2____init_____8py.html":[10,0,2,2,0,0],
+"upkie_2observers_2base__pitch_2____init_____8py.html#ab81fa954806b1437b4ba7a3c83ba85d1":[10,0,2,2,0,0,0],
+"upkie_2observers_2base__pitch_2____init_____8py_source.html":[10,0,2,2,0,0],
+"upkie_2utils_2____init_____8py.html":[10,0,2,3,0],
+"upkie_2utils_2____init_____8py_source.html":[10,0,2,3,0],
+"upkie__base__env_8py.html":[10,0,2,1,1],
+"upkie__base__env_8py_source.html":[10,0,2,1,1],
+"upkie__ground__velocity_8py.html":[10,0,2,1,2],
+"upkie__ground__velocity_8py_source.html":[10,0,2,1,2],
+"upkie__servos_8py.html":[10,0,2,1,3],
+"upkie__servos_8py_source.html":[10,0,2,1,3],
+"wheel__controller_8py.html":[10,0,0,1,4],
+"wheel__controller_8py_source.html":[10,0,0,1,4],
+"":[8,0,4]
+};
