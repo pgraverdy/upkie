@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - dependencies: Bump loop-rate-limiters to 1.0.0
+- CICD: add cache support for CI jobs
 
 ### Removed
 
