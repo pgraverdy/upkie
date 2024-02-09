@@ -23,7 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - envs: Specify maximum torques in `UpkieGroundVelocity`
 - whoopsies: Rename ``try_pid_balancer.sh`` to ``start_pid_balancer.sh`` 😊
 - CICD: update release GH action to package simulation spines on various architectures
-- CICD: add cache support for CI jobs
+- CICD: add cache support for CI workflow
 
 ### Fixed
 
